@@ -1,0 +1,45 @@
+body{
+    font-family: 'Yeseva One', cursive;
+    margin: 0px;
+    font-size: 20px;
+}
+
+.header{
+    width: 100%;
+    height: 50px;
+    font-size: 36px;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 5px 0px 5px 0px;
+    letter-spacing: 10px;
+    background-image: url(https://www.pixelstalk.net/wp-content/uploads/images1/Santorini-greece-houses-wallpaper-hd.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+ul {
+    float: left;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    }
+    
+    li a {
+    display: block;
+    float: left;
+    text-align: center;
+    font-size: 1.5em;
+    width: 150px;
+    text-decoration: none;
+    color: rgb(167, 197, 212);
+    background-color: rgba(255, 255, 255, 0);
+    padding: 10px 15px;
+    }
+    
+    li a:hover {
+    color: black;
+    background: rgba(255, 255, 255, 0);
+    border: 1px solid black;
+    }
