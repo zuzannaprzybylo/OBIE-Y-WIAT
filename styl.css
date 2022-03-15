@@ -1,5 +1,5 @@
 body{
-    font-family: 'Yeseva One', cursive;
+    font-family: 'Yeseva One';
     margin: 0px;
     font-size: 20px;
 }
@@ -16,6 +16,10 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
+}
+h1{
+    color: #a7c5d4;
+    text-decoration: dashed;
 }
 
 ul {
@@ -35,7 +39,7 @@ li a {
     font-size: 1.5em;
     width: 150px;
     text-decoration: none;
-    color: rgb(167, 197, 212);
+    color: #a7c5d4;
     background-color: rgba(255, 255, 255, 0);
     padding: 10px 15px;
 }
