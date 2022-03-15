@@ -41,9 +41,9 @@ li a {
 }
     
 li a:hover {
-    color: rgb(167, 197, 212);
-    background: rgba(255, 255, 255, 0);
-    border: 1px solid black;
+    color: #a7c5d4;
+    background: white;
+    border: 1px solid #a7c5d4;
 }
 
 input{
