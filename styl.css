@@ -58,3 +58,7 @@ input{
     margin-right: 16px;
     font-size: 17px;
 }
+
+footer{
+    display: block;
+}
