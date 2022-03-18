@@ -16,6 +16,7 @@ body{
     background-attachment: fixed;
     background-size: 100% 100%;
 }
+
 h1{
     color: #a7c5d4;
     text-decoration: dashed;
@@ -48,16 +49,6 @@ li a:hover {
     background: white;
     border: 1px solid #a7c5d4;
 }
-
-input{
-    float: right;
-    padding: 6px;
-    border: none;
-    margin-top: 8px;
-    margin-right: 16px;
-    font-size: 17px;
-}
-
 
 .slideshow {
     list-style-type: none;
